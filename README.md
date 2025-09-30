@@ -25,13 +25,16 @@ Fonctionnalités :
 1. Cloner le dépôt :  
 ```bash
 git clone git clone https://github.com/wiammaktoub/IRIS-Classifier.git
-
+```
 2. Installer les dépendances :
+```bash
 pip install -r requirements.txt
-
+```
 ##Lancer l'application
+```bash
 streamlit run iris_app.py
 
+```
 ## Auteur
 - **Wiam Maktoub**
 - GitHub : https://github.com/wiammaktoub
