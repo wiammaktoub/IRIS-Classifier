@@ -23,8 +23,32 @@ Fonctionnalités :
 
 ## Installation
 1. Cloner le dépôt :  
-```bash
-git clone https://github.com/<ton-nom-utilisateur>/IRIS-Classifier-Streamlit.git
+```bash git clone https://github.com/<ton-nom-utilisateur>/IRIS-Classifier-Streamlit.git
+
+2. Installer les dépendances :
+pip install -r requirements.txt
+
+##Lancer l'application
+streamlit run iris_app.py
+
+## Auteur
+- **Wiam Maktoub**
+- GitHub : https://github.com/wiammaktoub
+- Email : wiammaktoub74@gmail.com
+
+git clone git 
+
+2. Installer les dépendances :
+pip install -r requirements.txt
+
+##Lancer l'application
+streamlit run iris_app.py
+
+## Auteur
+- **Wiam Maktoub**
+- GitHub : https://github.com/wiammaktoub
+- Email : wiammaktoub74@gmail.com
+
 
 2. Installer les dépendances :
 pip install -r requirements.txt
